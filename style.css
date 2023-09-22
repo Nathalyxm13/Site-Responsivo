@@ -1,0 +1,153 @@
+*{
+    padding: 0;
+
+    margin: 0;
+
+    box-sizing: border-box;
+
+}
+
+ul{
+    margin-left: 84px;
+    list-style-type: square;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+ 
+
+header{
+
+    width: 100vw;
+
+    height: 20vh;
+
+    background-color:  #000000;
+    
+
+}
+
+ 
+
+nav {
+
+    background-color: rgb(255, 194, 12);
+
+    width: 40vw;
+
+    height: 70vh;
+
+    border: 2px solid black;
+
+    border-top: 3px solid black;
+    color: rgb(0, 0, 0);
+ 
+
+}
+
+ 
+
+aside {
+
+    background-color: rgb(0, 0, 0);
+
+    width: 40vw;
+
+    height: 70vh;
+
+    border: 2px solid rgb(0, 0, 0);
+
+    border-top: 3px solid rgb(0, 0, 0)
+
+}
+
+
+
+
+
+.cartaz{
+    width: 60vw;
+
+    height: 140vh;
+
+    float: right;
+
+    margin-top: 0;
+
+    margin-right: 0;
+
+    display: flex;
+
+    margin-bottom: 0;
+}
+ 
+
+ 
+
+.logo{
+
+    width: auto;
+
+    height: 20vh;
+
+    float: left;
+
+    margin-top: 0;
+
+    margin-left: 18px;
+
+    display: flex;
+
+    margin-bottom: 80px;
+
+}
+
+
+h4{
+    font-family: fantasy;
+
+    color: rgb(255, 255, 255);
+
+    font-size: 30px;
+
+    text-align: center;
+
+
+}
+ 
+
+h1{
+
+    font-family: fantasy;
+
+    color: rgb(255, 255, 255);
+
+    font-size: 40px;
+
+    text-align: center;
+
+}
+
+h2{
+    font-family: fantasy;
+
+    color: rgb(0, 0, 0);
+
+    font-size: 30px;
+
+    text-align: center;
+}
+
+
+footer{
+    background-color: rgb(255, 194, 12);
+    width: 100vw;
+    height: 18vh;
+    border: 2px solid black;
+
+    border-top: 3px solid black;
+}
+
